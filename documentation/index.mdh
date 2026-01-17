@@ -1,0 +1,10 @@
+theme: spacelab
+title: Documentation index
+...
+#Heres a list of documentation for various services we use here at EFN
+
+* [Enonic admin guide](https://xp.readthedocs.io/en/stable/admin/index.html)
+* [Etherpad user guide](http://write.flossmanuals.net/etherpad/introduction/)
+* [Nextcloud user manual](https://docs.nextcloud.com/server/13/user_manual/)
+* [Redmine user guide](https://www.redmine.org/projects/redmine/wiki/User_Guide)
+* [Upcoming doc for Enonic](https://developer.enonic.com/guides)

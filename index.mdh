@@ -1,0 +1,14 @@
+title: EFN Various services
+theme: efn
+...
+#This site runs various services for EFN.
+
+There are no services available directly from this root domain.
+
+##List of available services (not exhaustive)
+* [EFNs auxiliary mailinglists](//mailman.efn.no/cgi-bin/mailman/listinfo)
+* [EFN mailinglist](http://mailman.uib.no/listinfo/efn-listen)
+* [Etherpad](//div.efn.no/pad)
+* [GitHub](//github.com/EFN)
+* [Issue tracker](//div.efn.no/redmine)
+* [Old version of EFNs web pages](//old.efn.no)

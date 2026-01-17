@@ -1,0 +1,25 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     version="2.0">
+   <feed>
+      <title><![CDATA[ EFN Nytt fra det offentlige RSS ]]></title>
+      <atom:link href="http://localhost:8080/admin/portal/preview/draft/efn/rss/nytt-fra-det-offentlige.rss"
+                 rel="self"
+                 type="application/rss+xml"/>
+      <link>http://localhost:8080/admin/portal/preview/draft/efn/rss/nytt-fra-det-offentlige.rss</link>
+      <entry>
+         <title><![CDATA[ Ønsker mer informasjonsdeling i kampen mot arbeidslivskriminalitet ]]></title>
+         <link>http://localhost:8080/admin/portal/preview/draft/efn/no/nyheter/nytt-fra-det-offentlige/onsker-mer-informasjonsdeling-i-kampen-mot-arbeidslivskriminalitet</link>
+         <pubDate>Fri, 11 May 2018 13:08:48 +0000</pubDate>
+         <author>
+            <name>John Doe</name><email>Arve.Kirkevik@efn.no</email>
+         </author>
+         <guid isPermaLink="false">http://localhost:8080/admin/portal/preview/draft/efn/no/nyheter/nytt-fra-det-offentlige/onsker-mer-informasjonsdeling-i-kampen-mot-arbeidslivskriminalitet</guid>
+         <summary>Summary</summary>
+         <content>Content</content>
+      </entry>
+   </feed>
+</rss>

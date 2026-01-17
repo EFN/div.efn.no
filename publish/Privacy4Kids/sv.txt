@@ -1,0 +1,517 @@
+DIN GUIDE TILL
+DIGITALA FÖRSVARNA MOT DATA INKRÄKTARNA
+TA KONTROLL ÖVER DINA GREJER ONLINE
+SEKRETESS FÖR BARN
+
+[Omslagstext]
+
+INTERNET. DET ÄR COOLT, SNABBT OCH GLOBALT.
+Men det är också komplicerat. Ibland kan det vara svårt att se riskerna - hur och när vår personliga data kan ses och användas av andra. Som tur är finns DIGITAL DEFENDERS som i vårt parallella universum slåss mot de elaka DATAINKRÄKTARNA. Med deras hjälp är det lätt att avgöra vilka som är de goda och vilka som är de onda.
+www.edri.org
+
+[kolofon]
+
+Redaktörer:
+Kirsten Fiedler, EDRi
+Theresia Reinhold, EDRi
+
+Serier:
+Gregor Sedlag
+
+Illustrationer & design:
+Gregor Sedlag
+Heini Jarvinen
+(EDRi-former illustrationer)
+
+Medverkande:
+ApTI Romania
+Bits of Freedom
+CCC / Chaos macht Schule
+Cryptoparty.in
+Digitale Gesellschaft e. V.
+EDRi (Brussels office)
+Open Rights Group
+Mediamocracy
+
+Särskilt tack till:
+Gloria González Fuster,
+Vrije Universiteit Brussel (VUB)
+Hans Martens,
+Better Internet for Kids,
+EUN Partnership AISBL 
+
+Denna tidning har gjorts möjlig med hjälp av:
+
+• Donationer på GlobalGiving.com – tack till alla som har bidragit!
+• The Adessium Foundation och Open Society Foundations
+
+Detta dokument distribueras under licensen Creative Commons 2.0 (CC BY 2.0)
+http://creativecommons.org/licenses/by/2.0/
+
+Svensk översättning baserad på engelskt original uppdaterad 2019-11-27.
+
+Kapitel:
+
+Kapitel 1: Vad är internet?
+Kapitel 2: Vad är integritet?
+Kapitel 3: Topp tre tips och tricks
+Kapitel 4: Skydda dig själv på sociala nätverk
+Kapitel 5: Säkerhet för smarta telefoner
+Kapitel 6: Säkrare meddelanden
+Kapitel 7: Surfa på internet
+Kapitel 8: Lösenordssäkerhet
+Kapitel 9: Delning av foton och videor
+Kapitel 10: Appar & verktyg vi gillar
+Kapitel 11: Praktisk vägledning för Signal
+
+[introduktion]
+
+Internet. Det är coolt, snabbt och globalt.
+
+Men det är också komplicerat. Ibland kan det vara svårt att se riskerna – hur och när vår personliga data kan ses och användas av andra.
+
+Som tur är finns DIGITALFÖRSVARARNA som i vårt parallella universum slåss mot de elaka DATAINKRÄKTARNA – med dem är det lätt att se vilka som är de goda och vilka som är onda.
+
+FÖRSVARARNA kommer att ge dig tips och tricks om hur du kan försvara dig på nätet. De kommer att lära dig självförsvar i kampen mot INKRÄKTARNA.
+
+Gör dig redo att själv bli en av superhjältarna i team DIGITALFÖRSVARARNA! 
+
+Din vän,
+
+
+Missa inte SPELET EDRi-formers
+
+Du kommer att hitta uppdrag på olika ställen i tidningen. Varje uppdrag har ett rätt svar. Det rätta svaret kommer att ge dig en bokstav och tillsammans kommer bokstäverna att bilda ett lösenord. Ledtråd: det är ett ord på sex bokstäver. När du löst uppdragen och hittat lösenordet kan du använda det för att få tillgång till ETT
+MÄKTIGT DIGITALT PANSAR via en hemlig sajt på nätet.
+
+Så här går det till:
+1. Hitta den saknade delen i den här länken: https://edri.org/xxxxxx .
+2. Byt ut xxxxxx mot lösenordet som du fick när du löste uppdragen och skriv in en kompletta länken i din webbläsare.
+
+
+
+KAPITEL 1
+Vad är internet?
+
+Internet är ett globalt nätverk av ihopkopplade enheter. 
+
+När du använder internet på din bärbara dator, surfplatta eller telefon så är det en del av nätverket.
+
+En av de viktigaste egenskaperna med internet är att många olika tekniker kan användas i samma nätverk. 
+
+Vi kan till och med använda samma anslutning för att ladda ner en video, spela ett spel och chatta med våra vänner samtidigt.
+
+Internet är globalt, snabbt och ger oss en hel värld av möjligheter.  
+
+Internet är en fantastisk och kraftfull uppfinning. Innan internet användes över hela världen fanns det inget enkelt sätt att koppla ihop så många människor med varandra. Det var också svårare att hitta och snabbt kunna lyssna på ny musik eller titta på en film på det sätt vi gör idag. Internet är också ett jättebra ställe för att lära sig nya saker eftersom nästan all information och kunskap finns på nätet.
+
+Samtidigt som internet är som ett enormt bibliotek fullt av information och experter, är det också en digital verktygslåda som vi kan använda för att skapa innehåll och ett nöjesfält där vi kan ha kul och umgås. 
+
+I onlinevärlden är kullen vår internetanslutning och snön är det språk som nätverket talar - "internetprotokollet"!
+
+Sociala nätverk och andra tjänster kan ofta verka vara gratis. Men faktum är att vi betalar med personlig information som vi - ibland utan att tänka på det - delar på nätet. Information om vad vi skriver, läser eller tittar på används av nätföretag.
+
+Hur kan vi få kontroll över informationen vi delar på nätet?
+
+Du kommer att hitta svaret på den frågan i den här tidningen.
+
+
+
+KAPITEL 2
+Vad är integritet?
+
+Med personlig integritet har  vi kontroll!
+Men vad innebär det egentligen? 
+
+Integritet handlar om vår rätt att själva bestämma vad vi vill dela och med vem.
+
+Det innebär till exempel att du har rätt att få veta vilken information Google, Facebook och andra har samlat om dig. Du kan också be dem radera dessa data.
+
+När vi skyddar vår personliga integritet kan vi känna oss tryggare och säkrare över att information som kan skada oss inte hamnar i händerna på fel personer.
+
+Det kan vara information som vi bara vill dela med några få personer.
+
+Genom att skydda vår egen integritet kan vi både skydda oss själva och hjälpa andra, eftersom den information de delar med oss då inte automatiskt sprids vidare.
+
+Vi har alla något som vi inte vill dela med någon annan.
+
+Att värna om vår egen personliga integritet handlar alltså om att ta hand om både oss själva och våra vänner eftersom det hjälper oss att vara fria, säkra och pålitliga. 
+
+Om du använder en dator som andra också har tillgång till är det bra att vara extra noga med att logga ut från dina tjänster och radera datorns sökhistorik när du är färdig. På det sättet skyddar du dig från att andra användare ser vad du tittade på eller letade efter.
+
+
+» VISSTE DU ATT?
+
+För 20 år sedan hade de flesta hem bara en telefonlinje som kunde användas av en person i taget. Knappt någon hade mobiltelefon och väldigt få hade mejl.  
+
+UPPDRAG 1: INTERNET ÄR…
+[A] …ett nätverk av enheter.
+[B] …ett effektivt fiskeredskap för internationella vatten.
+[C] …ett socialt nätverk.
+
+
+
+KAPITEL 3
+Topp tre tips och tricks
+
+1. Alla måste inte veta allt om oss
+
+Precis som i offlinevärlden är det bra att vara noga med vad vi delar med oss av om oss själva. Instinktivt delar vi vissa saker med vissa personer men inte med andra. På internet är det ibland svårt att göra det valet med samma självklarhet. 
+
+Det beror delvis på att det inte alltid är uppenbart vad som är privat och inte privat online, vilket beror på att internet har andra regler än den fysiska världen. 
+
+Till exempel: Dina vänner skulle förlåta en dum kommentar du sa när du var upprörd och förstå att du inte menade det eftersom de känner dig. Men om någon annan läste samma kommentar på internet skulle de kanske inte förstå vad du menade och tro att du bara var elak. 
+
+2. Säkerhet och integritet på nätet behöver inte vara svårt
+
+Du måste inte vara supernörd för att vara säker på nätet. Om det går, använd plattor, mobiler och datorer som andra inte har tillgång till. Använda lösenord som ingen kan gissa. Det går också att göra säkerhetsinställningar för att slippa bli spårad. Vi kan göra detta på riktigt enkla sätt.
+
+3. Att veta vad eller vem vi skyddar oss mot
+
+Precis som banker behöver skydda sig mot tjuvar behöver vi också skydda oss själva - mot företag som spårar oss på nätet, klasskompisar som är arga på nånting, eller nyfikna
+föräldrar som är...så som nyfikna föräldrar är mest. 
+
+Vi behöver fråga oss själva vilka de verkliga hoten är och vad vi kan göra mot dem. När vi har lärt oss om riskerna kan vi lära oss hur det är möjligt att vara säkra och ha koll på vår integritet.
+
+
+
+
+KAPITEL 4
+Skydda dig själv på sociala nätverk
+
+Det är ofta roligt att använda sociala nätverk.   På sociala nätverk kan vi chatta med vänner och familj, dela bilder, skicka privata meddelanden och lägga upp information tillgänglig för alla. 
+
+I vissa länder är det inte tillåtet för barn under 13 år att använda vissa typer av sociala nätverk. Om du vill använda sociala nätverk är det bäst att du först frågar din familj eller dina lärare för att vara säker på att det är ok. 
+
+>> Facebook, Instagram, Twitter, Snapchat, Diaspora och många fler är alla sociala nätverk.
+
+Har du någon favorit? Varför tycker du om dem? 
+
+Vissa sociala nätverk lagrar inte bara meddelanden du skickat utan även de du inte skickar. Tänk dig att du skriver ett meddelande till din kompis på Facebook men inte skickar iväg det. Din kompis kommer inte att känna till meddelandet. Men Facebook lagrar det! 
+
+Kom ihåg att allting vi gör på sociala nätverk sparas på företagets datorer. Det betyder inte att de kommer att göra något dåligt med informationen - men det är bra att känna till att det sker.
+
+» VISSTE DU ATT?
+
+Det vi skriver i en sökmotor eller i ett chattmeddelande till en vän försvinner aldrig helt. Företag som erbjuder de tjänster som vi ofta använder (som YouTube, Facebook, Snapchat och så vidare) kan registrera vad vi skriver, vilka webbplatser vi besöker och vad vi söker efter på nätet. 
+
+» UPPDRAG 2: INTEGRITET ÄR VIKTIGT FÖR ATT…
+[T] …det hjälper oss att titta på musikvideor.
+[R] …det hjälper oss att vara fria och ha kontroll när vi är på nätet.
+[G] …det hjälper oss att dela bilder med hela världen.
+
+DIGITALFÖRSVARARNA mot DATAINKRÄKTARNA (I)
+
+Ann Onym
+
+LAG: DIGITALFÖRSVARARNA
+    
+SUPERKRAFTER: Regeringstester har stärkt hennes immunsystem. Hon har också förmågan att vara anonym när hon använder sociala nätverk så ingen vet vem hon är.
+
+VAPEN: Hon är mycket duktig i närkamp
+
+I.D. STÖLD
+
+LAG: DATAINKRÄKTARNA
+
+SUPERKRAFTER: Hon kan se vad du gör på nätet och stjäla din personliga information. Hon låtsas att vara du och försöker använda ditt namn, dina konton på sociala nätverk och mejlkonton för att begå brott.
+
+VAPEN: Alfaviruset – som hon använder för att infiltrera datorer och telefoner.
+
+
+
+
+KAPITEL 5
+Säkerhet för smarta telefoner
+
+Vi använder i hög utsträckning  våra telefoner för att komma åt internet.
+
+- kommunicera med våra vänner, använda sociala nätverk och surfa på webben.
+
+Men våra telefoner är också användbara för många andra saker - vi kan ha dem som ficklampa, för att spela spel eller kolla upp när nästa buss kommer.
+
+När du installerar en ny app, läs vilka rättigheter och vilken information i din telefon som du ger appen tillgång till? Behöver till exempel ficklampe-appen verkligen få tillgång till din adressbok?
+
+Det är väldigt frestande att bara klicka på »acceptera«, men det är bra att stanna upp och tänka efter. Det finns goda anledningar till att inte lita på en app som frågar efter saker som den uppenbart inte behöver.
+
+Med bara några klick kan vi göra begränsningar i de appar som redan är installerade. På de flesta enheter kan vi göra det i »inställningar«. Kolla igenom »inställningar« i din telefon för att få bättre koll på dina appar.
+
+» Många appar får tillgång till personliga grejer lagrade på din telefon.
+
+Vi kan begränsa åtkomsten till vår plats och till vår adressbok och vi kan lägga till ett lösenord eller fingeravtryckskontroll för att låsa upp vår telefonskärm.
+
+Det tar inte lång tid att göra våra telefoner säkrare och öka skyddet av vår personliga integritet. I slutet av denna tidning hittar du en lista med bra appar för detta.
+
+» VISSTE DU ATT?
+
+Olika appar begär olika mycket information. Om det finns god anledning att ge en app behörighet till något på din telefon, som att ge en foto-app tillgång till din kamera, så är det
+inget att oroa sig för. Men om du tycker att en app kräver onödiga behörigheter, kolla då om det finns liknande appar som ber om färre behörigheter.
+
+DIGITALFÖRSVARARNA mot DATAINKRÄKTARNA (II)
+
+SINNE S. FRID
+
+LAG: DIGITALFÖRSVARARNA
+
+SUPERKRAFTER: Hen kämpar för din rätt att bestämma vad du ska dela och med vem. Hen har förmågan att skapa en privat och säker miljö där du kan säga vad du tycker.
+
+VAPEN: Hens sinne.
+
+MANNEN I MITTEN.
+
+LAG: DATAINKRÄKTARNA
+
+SUPERKRAFTER: Han har mystiska krafter att avlyssna vad du gör online. Han kan låtsas att vara en riktig person online och sedan använda information för att hacka din kommunikation, för att läsa dina meddelanden, se dina bilder och titta på dina videoklipp.
+
+VAPEN: Hans kostym och antenner.
+
+
+
+
+KAPITEL 6
+Säkrare meddelanden
+
+Vi använder appar i våra mobiltelefoner för att skicka meddelanden till vänner och familj.
+
+En del appar läser av innehållet i våra meddelanden och spårar vilka vi pratar med för att sedan kunna dra nytta av informationen.
+
+» Vad du säger och gör online är värdefull information för företag. 
+
+Företag som utvecklar meddelande-appar granskar ofta vad vi skriver. De kartlägger oss för att anpassa annonser och få oss intresserade av vissa varor eller för att dela information om oss vidare till andra företag. Kolla in listan med coola och säkrare meddelande-appar i slutet av tidningen. Dessa appar säkerställer att vi inte tar emot meddelanden från vem som helst. I slutet finns även en guide till hur du installerar appen Signal. Signal är en cool app för säker kommunikation.
+
+» UPPDRAG 3: SOCIALA NÄTVERK ÄR BRA FÖR ATT…
+[Q] …jag kan vara säker på att de aldrig skulle använda eller sälja min data.
+[M] …jag kan hålla kontakten med vänner och familj.
+[N] …jag kan vara säker på att bara mina vänner ser de foton som jag postar där.
+
+
+
+
+KAPITEL 7
+Surfa på internet
+
+Vi använder ofta internet genom  en webbläsare.
+
+» Det är lätt att glömma att webbläsaren är en kraftfull mjukvara i sig själv.
+
+Den är ibland det första du öppnar när du slår på telefonen, surfplattan eller datorn och den sista du stänger. Mycket information registreras i webbläsaren som du inte känner till och som kan vara dålig (eller bra) för din integritet.
+
+När vi surfar på nätet för att köpa något, titta på videor eller se vad våra vänner nyligen har postat, lämnar vi digitala fotspår. Vissa webbplatser och sociala nätverk använder dessa fotspår för att kartlägga oss.
+
+» Webbplatser samlar in mycket data om oss!
+
+Vilka våra vänner är, vad vi gillar, vad vi söker efter och vad vi lyssnar på kan spåras. Webbplatser kan göra detta eftersom de använder »cookies« i våra webbläsare. Dessa »cookies« är små bitar av programvara.
+
+»Cookies« är osynliga för oss. Men när tillräckligt mycket data samlas in och kombineras med annan information om oss, kan personliga och hemliga uppgifter bli kända för andra människor och företag.
+
+De flesta enheter levereras med en webbläsare. I Windows föreslås Edge, Apple-enheter levereras med Safari, och Android-enheter med Google Chrome. Men det är inte nödvändigtvis de webbläsare som fungerar bäst för dig.
+
+» VISSTE DU ATT?
+
+Det går att ställa in »sekretessinställningar« i din webbläsare och ändra standardinställningarna så att du får kontroll - precis som VÅGMÄSTAREN! Många rekommenderar webbläsaren Firefox för din integritet och säkerhet, eftersom du kan anpassa och kontrollera hur den fungerar. Om du inte redan har Firefox på din dator, så är den enkel att ladda ner.
+
+DIGITALFÖRSVARARNA mot DATAINKRÄKTARNA (III)
+
+VÅGMÄSTAREN
+
+LAG: DIGITALFÖRSVARARNA
+
+SUPERKRAFTER: Hen kan navigera i rymden, hyperspace och cyberspace på sin surfbräda. Vågmästaren behöver varken mat eller dryck, utan överlever enbart genom att konvertera data till energi. Hen är nästan outplånlig.
+
+VAPEN: Surfbrädan.
+
+KNÄPPA KAKAN
+
+LAG: DATAINKRÄKTARNA
+
+SUPERKRAFTER: Han är stridslysten. Han hatar alla digitalförsvarare och ser Vågmästaren som sin värsta fiende. Han har en enorm aptit på dina hemligheter.
+
+VAPEN: Hans roterande robotarm.
+
+» UPPDRAG 4: VISSA APPAR …
+[F] …är så säkra att jag aldrig behöver oroa mig för min integritet när jag använder dem.
+[L] …är bättre än choklad.
+[O] …kan komma åt mina kontakter, bilder och meddelanden.
+
+
+
+
+KAPITEL 8
+Lösenordssäkerhet
+
+Lösenord är mycket viktiga i den digitala tidsåldern.
+
+Enormt viktigt! De utgör grunden för din säkerhet och integritet. De flesta väljer lösenord som är mycket svaga. De vanligaste lösenorden är »lösenord» eller »12345».
+
+Att skapa ett säkert lösenord är inte särskilt svårt.
+
+1. Använd aldrig samma lösenord
+
+Detta är en av de viktigaste reglerna! Försök åtminstone att variera lösenordet något.
+
+Varför? Om brottslingar (som Datasmugglaren) får tillgång till ditt lösenord för en tjänst försöker de ofta att logga in i andra tjänster med samma lösenord. De vet nämligen att det är vanligt att återanvända lösenord på flera webbplatser!
+
+2. Använd aldrig ett ord ur en ordlista
+
+...oavsett hur långt det är eller hur komplicerat det ser ut.
+
+Varför? Eftersom det finns dataprogram som prövar varje enskilt ord i ordlistor som ett sätt att "gissa" ditt lösenord. Alla superhjältar i Digitalförsvarna har ett starkt och kreativt lösenord. Gör som dem - ditt lösenord är ditt vapen för att undvika fara!
+
+3. Ditt lösenord ska vara minst 12 tecken långt
+
+Det är ett minimum. Ju längre ett lösenord är desto svårare är det att hacka.
+
+Varför? För ju längre det är, desto svårare är det att gissa. Vissa experter säger att det är okej att skriva ner det, göm pappersbiten väl!
+
+DIGITALFÖRSVARARNA mot DATAINKRÄKTARNA (IV)
+
+LÅSENS DROTTNING
+
+LAG: DIGITALFÖRSVARARNA
+
+SUPERKRAFTER: Hon kämpar för din integritet och säkerhet. Hon ger starka säkerhetsnycklar till personer som är i fara och hjälper dem att säkra sin personliga information på nätet.
+
+VAPEN: Hennes hjälm - hon använder den för att skjuta energistrålar med ögonen. Hon kan skära rakt igenom Nätfiskare FINNs farliga nät.
+
+NÄTFISKARE FINN
+
+LAG: DATAINKRÄKTARNA
+
+SUPERKRAFTER: Han har övernaturlig styrka, snabbhet och reflexer. Han använder sina krafter för att smyga in i din telefon och fiska efter dina hemligheter.
+
+VAPEN: Han kastar ett elektrostatiskt datanät över sina motståndare för att bedöva dem.
+
+» UPPDRAG 5: NÄR JAG SURFAR PÅ INTERNET…
+[X] …kan jag göra vad jag vill och ändå vara säker - för det är inte på riktigt!
+[U] …kan jag skydda mig själv genom att inte tillåta cookies eller att min historik lagras.
+[Y] …har jag inget att dölja och behöver därför inte vara försiktig.
+
+
+
+
+KAPITEL 9
+Delning av foton och videor
+
+Genom att dela bilder och videoklipp berättar vi om vårt dagliga liv för våra vänner online.
+
+» Dela är coolt - men bilder och videoklipp kan enkelt kopieras av andra.
+
+Kom ihåg att det alltid är viktigt att välja med vilka du vill dela bilder och videoklipp. Annars kan de spridas och användas i felaktigt syfte.
+
+Vad är problemet? Om vi  skickar en bild eller video skickar vi en kopia av den från vår enhet till en annan enhet. Tänk dig att bilden delas igen med andra. Varje kopia kan kopieras igen.
+
+Om vi delar  ett foto eller en video online, kommer alltid kopior finnas på olika enheter. Även om vi tar bort originalbilden från vår egen enhet, kommer de andra kopiorna fortfarande att finnas kvar.
+
+När vi delar kan våra saker komma i händerna på människor som vi inte ville dela med.
+
+Vissa personer kan även försöka stjäla vår identitet genom att använda våra bilder - precis som I.D. STÖLD.
+
+Snapchat är en app för att dela bilder som försvinner snabbt. Tyvärr är det fortfarande möjligt att spara ett foto med några knep och dela det igen. Tusentals Snapchat-bilder har redan släppts ut på Internet.
+
+Det betyder att vi alla måste leva med möjligheten att sociala nätverk kan användas på såväl bra som dåliga sätt. Så vi måste tänka innan vi publicerar eller skickar foton och videor via internet! Vi borde fråga oss själva om vi skulle lägga detta foto på skolans allmänna styrelse. Om inte är det kanske inte en bra idé att dela det online.
+
+Om bilden visar andra personer, måste vi begära deras tillstånd innan den delas. Det är deras rätt att själva bestämma hur bilder på dem ska få användas.
+
+För bilder som vi inte själva tagit måste vi fråga ägaren(upphovspersonen) om tillstånd innan vi delar dem online.
+
+DIGITALFÖRSVARARNA mot DATAINKRÄKTARNA (V)
+
+SLUMP-JOHNNY
+
+LAG: DIGITALFÖRSVARARNA
+
+SUPERKRAFTER: Han föddes på planeten Entropia, någonstans i en avlägsen galax. Hans förmåga är att med viljans kraft ändra form. Han kan skydda dina hemligheter genom att slumpmässigt byta lösenord.
+
+VAPEN: Hans främsta vapen är hans formbara och energiladdade kroppdelar som kastas på motståndaren. Kroppsdelar som sedan återvänder och laddas om.
+
+DATASMUGGLAREN
+
+LAG: DATAINKRÄKTARNA
+
+SUPERKRAFTER: Han är mycket inflytelserik och besitter övermänskliga förmågor och egenskaper som gör att han enkelt kan manövrera i cyberspace. Han samlar in värdefulla personuppgifter (som dina foton och meddelanden) och säljer dem på den svarta marknaden.
+
+VAPEN: Han bär olika typer av vapen i sin portfölj.
+
+
+
+KAPITEL 10
+Appar & verktyg vi gillar
+
+SMARTPHONE-APPAR
+
+App | Vad den gör | Svårighet att använda
+
+Signal | Säkra meddelanden och telefonsamtal (WhatsApp-alternativ) | Lätt
+
+Firefox | En integritetsvänlig webbläsare | Lätt
+
+KeePass DX | Hanterar alla dina lösenord | Lätt
+
+F-Droid | Arkiv med appar som är öppen och fri programvara (Google Play-alternativ) | Lätt
+
+K9-Mail | Hanterar din e-post | Lätt
+
+Transportr | Kollektivtrafik, kontrollera buss- och tågtider | Lätt
+
+Jitsi Meet | Säkra videogruppsamtal (Skype-alternativ) | Lätt
+
+Tor Browser | Surfa på webben anonymt | Lätt
+
+OpenKeychain | Kryptera e-post med K9-Mail | Svårt
+
+
+PROGRAMVARA FÖR WINDOWS, MAC OCH LINUX
+
+Programvara | Vad den gör | Svårighet att använda
+
+Firefox | En integritetsvänlig webbläsare | Lätt
+
+Pidgin och OTR plugin | Meddelanden (kompatibel med ChatSecure) | Medium
+
+Thunderbird | Hanterar din e-post | Medium
+
+Enigmail | Tillägg för att kryptera e-post i Thunderbird | Svårt
+
+Tor Browser | Surfa på webben anonymt | Lätt
+
+
+WEBBLÄSARTILLÄGG, PLUGIN-PROGRAM OCH INSTICKSMODULER
+
+Tillägg | Vad den gör | Svårighet att använda
+
+Ublock Origin | Blockerar webbannonsering och spårning | Lätt
+
+Privacy Badger | Blockerar spårning online | Lätt
+
+HTTPS Everywhere | Tvingar webbplatser att kryptera din trafik om möjligt | Lätt
+
+Cookie AutoDelete | Tar bort cookies när de inte längre används av öppna webbläsarflikar | Medium
+
+NoScript | Blockerar JavaScript | Svårt
+
+
+KAPITEL 11
+Praktisk vägledning för Signal
+
+Signal  är en  gratis app för Android och iPhone. Den krypterar vad vi säger och vem vi pratar med. Vi kan använda Signal för att messa, ringa och dela bilder, videoklipp och kontakter.
+
+bilder, videoklipp och kontakter. Det finns även andra appar för säker kommunikation, men Signal är lätt att komma igång med. Här är en introduktion i fem steg:
+    
+1. Gå in i Play Store (Android) eller App Store (iPhone). Sök efter »Signal«. Välj appen »Signal Private Messenger« och tryck på >Installera<. När installationen är klar öppnar du appen.
+
+2. Registrera ditt telefonnummer med Signal genom att ange ditt mobilnummer och välj >Registrera< eller >Verifiera enheten<. Du får ett textmeddelande med en sexsiffrig kod. Skriv in koden i Signal.
+
+3. Peka på pennan längst ner till höger (Android) eller högst upp till höger (iPhone) för att starta en konversation.
+
+4. Välj den person du vill skriva eller ringa till.
+
+5. Om du vill byta mellan säkra meddelanden via din internetanslutning och osäkert SMS, håll bara knappen »Skicka« en liten stund längre.
+
+Det blir säkrare när personen som vi kontaktar använder Signal. Appen använder vår internetanslutning när vi kontaktar en annan Signalanvändare och via SMS eller telefonoperatör när vi kontaktar någon som inte använder Signal.
+
+Kom ihåg! Du behöver inte övertyga alla du känner att använda Signal. Uppmana bara dina närmaste vänner och de personer du har mest kontakt med att installera appen, då kommer fler och fler att börja använda detta säkrare verktyg.
+
+» UPPDRAG 6: SOM LÖSENORD BORDE JAG VÄLJA …
+[R] …en slumpmässig kombination av bokstäver, siffror och specialtecken.
+[V] …123456789 - det är lätt att komma ihåg.
+[D] …det första ordet jag ser i en slumpmässigt vald bok från en slumpmässigt vald sida.

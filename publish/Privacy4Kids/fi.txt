@@ -1,0 +1,513 @@
+TIEDON SUOJAAJAT OPPAANASI TIETOMURTAJIA VASTAAN
+PIDÄ HALLUSSASI MITÄ LATAAT NETTIIN!
+TIETOSUOJAA LAPSILLE
+
+[Kansiteksti]
+
+THE INTERNET. IT IS COOL, FAST AND GLOBAL.
+Mutta se on myös mutkikas. Toisinaan on vaikea nähdä,  missä vaara väijyy  - ja missä muut voivat lukea ja ja käyttää yksityistä materiaaliamme verkossa. 
+Luckily, in our parallel universe where the DIGITAL DEFENDERS fight the evil DATA INTRUDERS, it is easy to see who are the good and who are the bad guys.
+www.edri.org
+
+[colophon]
+
+Lehtisen ovat toimittaneet:
+Kirsten Fiedler, EDRi
+Theresia Reinhold, EDRi
+
+Sarjakuvat:
+Gregor Sedlag
+
+Kuvitus ja taitto:
+Gregor Sedlag
+Heini Jarvinen
+(EDRi-former illustrations)
+
+Contributions by:
+ApTI Romania
+Bits of Freedom
+CCC / Chaos macht Schule
+Cryptoparty.in
+Digitale Gesellschaft e. V.
+EDRi (Brussels office)
+Open Rights Group
+Mediamocracy
+
+Erityiset kiitokset:
+Gloria González Fuster, VrijeUniversiteit Brussel (VUB)
+Hans Martens, Better Internet for Kids, EUN Partnership AISBL 
+
+Tämän lehtisen ovat tehneet mahdolliseksi:
+
+• Individual donors on GlobalGiving.com – thank you all for your contribution!
+• The Adessium Foundation and Open Society Foundations
+
+This document is distributed under a Creative Commons 2.0 Licence (CC BY 2.0)
+http://creativecommons.org/licenses/by/2.0/
+
+English edition updated 2019-11-27.
+
+Chapters:
+
+Chapter 1: What is the internet?
+Chapter 2: What is privacy?
+Chapter 3: Top three tips and tricks
+Chapter 4: Protect yourself on social networks
+Chapter 5: Smartphone security
+Chapter 6: Safer messaging
+Chapter 7: Surfing the internet
+Chapter 8: Password security
+Chapter 9: Photo and video sharing
+Chapter 10: Apps & tools we like
+Chapter 11: Hands-on guide for Signal
+
+[johdanto]
+
+Internet on viilee, nopee ja maailmanlaajuinen.
+
+Mutta se on myös mutkikas. Toisinaan on vaikea nähdä,  missä vaara väijyy  - ja missä muut voivat lukea ja ja käyttää yksityistä materiaaliamme verkossa.
+
+Onneksi meillä on rinnakkaistodellisuus, jossa tiedon suojaajat taistelevat tietomurtajia vastaan, ja jossa on helppo nähdä ketkä  ovat hyviksiä ja ketkä pahiksia.
+
+Puolustajat opettavat sinulle keinoja joilla voit suojella itseäsi verkossa. He opettavat sinulle itsepuolustusta tietomurtajia vastaan.
+
+Tutustu siis tähän lehtiseen ja ole valmiina liittymään supersankarijoukkoomme,  Puolustajiin! 
+
+Ystäväsi,
+
+
+NIIN, JA OLE VALMIINA EDRI-former-PELIÄ varten
+
+You will find quests throughout the booklet. Every quest has only one right answer that will give you one letter. Together, the letters will form the solution word. Hint: 
+it is a word that consists of six letters. The achievement to unlock: A POWERFUL DIGITAL ARMOUR.
+
+Kun olet selvittänyt sanan, mene salaiselle internetsivulle: Tee näin:
+1. Selvitä seuraavan linkin puuttuva osa: https://edri.org/xxxxxx 
+2.  Korvaa xxxxxx pelitehtävien ratkaisusanalla (kuusi kirjainta) ja  syötä linkki kokonaisena selaimeesi.
+
+
+
+CHAPTER 1
+What is the internet?
+
+Internet on maailmanlaajuinen laitteiden verkko. 
+
+Kun käytät internetiä läppärilläsi,  tabletillasi tai puhelimellasi, se on osa verkkoa.
+
+Yksi internetin erikoisominaisuuksista on, että samassa verkossa voidaan käyttää monia erilaisia teknologioita. 
+
+Voimme myös käyttää samaa yhteyttä yhtaikaa videon lataamiseen, pelin pelaamiseen ja ystävien kanssa jutteluun.
+
+Internet on maailmanlaajuinen,  se on nopea, ja se antaa meille koko joukon mahdollisuuksia.  
+
+The internet is an amazing and powerful invention. Before the internet spread widely, there was no easy way of connecting lots of people with each other. It was much more difficult to listen to music or watch a movie. Also, the internet is a great place to learn as most of the information and knowledge is shared online.
+
+Internetteknologia on hiukan kuin suuri lumipeitteinen mäki - voimme hiihtää, lumilautailla tai rakentaa lumiukon. Tarvitsemme vain lunta! 
+
+Verkkomaailmassa mäki on meidän internetyhteytemme ja lumi on verkon käyttämä kieli - "intenetprotokolla"!
+
+Social networks and many other online services look like they are for free – but we actually pay with the personal information that we put online. Information about what we write or read or watch is used by online companies.
+
+Kuinka voimme hallita sitä tietoa, jonka jaamme verkossa?
+
+Löydät vastauksen tähän kysymykseen tästä lehtisestä.
+
+
+
+LUKU 2
+Mitä on yksityisyys?
+
+Yksityisyys on sitä, että voimme itse päättää.
+Mutta mitä se tarkoittaa? 
+
+Yksityisyys on oikeutemme päättää mitä jaamme ja kenen kanssa.
+
+Tämä tarkoittaa esimerkiksi sitä,  että sinulla on oikeus kysyä Googlelta, Facebookilta ja muilta, millaista tietoa ne ovat sinusta keränneet. Voit myös pyytää niitä poistamaan tämän tiedon.
+
+When we protect our privacy, we are safer and more secure because there might be information that could hurt us if the wrong person knows about it.
+
+Se voi olla tietoa, jonka haluamme jakaa joidenkin ihmisten kanssa, kuten vanhempiemme ja opettajiemme, mutta emme kenekään muun.
+
+But we can also help others when we protect our privacy because they might want to share something with us that should not be shared with anyone else.
+
+We all have things we don't want to share with others.
+
+Se, että huolehdimme omasta yksityisyydestämme vaikuttaa paljon myös siihen kuinka huolehdimme ystävistämme, koska silloin olemme vapaita, turvassa ja luotettavia. 
+
+Vanhempamme, ystävämme, tai kuka tahansa, joka käyttää tietokonetta jälkeemme, voi myös toisinaan nähdä, mitä hakuja olimme tehneet. Näin voi käydä jos unohdamme kirjautua ulos tai jos he yksinkertaisesti katsovat tietokoneen historiatietoja.
+
+
+TIESITKÖ?
+
+Vain 20 vuotta sitten useimmissa kodeissa oli vain yksi puhelinlinja ja vain yksi ihminen kerrallaan saattoi käyttää sitä. Tuskin kenelläkään oli kännykkää ja kovin monella ei ollut sähköpostia.  
+
+TEHTÄVÄ 1: INTERNET ON
+[A] ... laitteiden verkko
+[B] ...tehokas kalastusväline kansainvälisillä vesillä
+[C] ... sosiaalinen verkosto.
+
+
+
+CHAPTER 3
+Top three tips and tricks
+
+1. Kaikkien ei tarvitse tietää meistä kaikkea
+
+Like in the offline world, it is better to choose carefully what we want to share and with whom. Instinctively, we share some things with some people and not with others. 
+The internet sometimes makes it difficult to make that choice. 
+
+Osittain tämä johtuu siitä,  ettei aina ole selvää, mikä verkossa on yksityistä ja mikä ei, ja osittain koska verkossa on eri säännöt kuin sen ulkopuolella. 
+
+Esimerkiksi: Kaverimme antavat anteeksi kiukustuneena sanomamme hölmön kommentin, ja ymmärtävät käytöksemme koska tuntevat meidät.  Jos joku muu lukee kommenttimme verkossa, hän ei välttämättä ymmärrä mitä tarkoitimme ja pitää meitä ilkeinä. 
+
+Verkossa on vaikea pitää yllä turvallisuutta ja yksityisyyttä.
+
+We don't have to be super nerds to keep ourselves safe online. We can protect a tablet, phone or laptop so that our classmates cannot access it. We can use a password that no one else can guess, and watch videos online without being tracked. We can do this in really simple ways.
+
+3. Knowing what or who we are protecting ourselves against
+
+Kuten pankit suojautuvat varkaita vastaan, meidänkin on suojauduttava - meitä verkossa vakoilevia yhtiöitä vastaan, mahdollisesti jostakin suuttuneita luokkatovereita vastaan, tai nuuskivia vanhempia vastaan, jotka ovat... nuuskivia vanhempia. 
+
+Meidän on kysyttävä, mitkä ovat todelliset uhat, ja mitä voimme tehdä niille. Kun olemme ajatelleet näitä uhkia, huomaamme että todella on mahdollista pysyä turvassa ja varjella yksityisyyttään.
+
+
+
+
+CHAPTER 4
+Protect yourself on social networks
+
+Sosiaalisten verkostojen käyttö voi olla tosi hauskaa. Somessa voimme jutella ystävien ja sukulaisten kanssa, jakaa kuvia, lähettää yksityisviestejä ja lähettää tietoa julkisesti. 
+
+In some countries, children under the age of 13 are not allowed to use some of the social networks. If you want to use social networks, it is best to ask your family and teachers to be sure. 
+
+>> Facebook, Instagram, Twitter, Snapchat, Diaspora and many more are all social networks.
+
+Do you have a favourite? Why do you like them? 
+
+Some social networks even store messages we decided not to send! Imagine that, when you write a message to your friend on Facebook and don't send the message, your friend will not know about the message. But Facebook keeps it! 
+
+Keep in mind that everything you do on a social network is recorded on the computers of the companies that run it. That doesn't mean that they are going to do something bad with it – but you should know that this is happening.
+
+TIESITKÖ?
+
+The things we type into a search engine or write in a chat message to a friend are not completely deleted. Companies that provide the services we use (like Youtube, Facebook, Snapchat and so on) record and keep what we write, the websites we visit and the things we search online. 
+
+TEHTÄVÄ 2: YKSITYISYYS ON TÄRKEÄÄ,  KOSKA...
+[T] ...se auttaa meitä katsomaanmusiikkivideoita.
+[R] ... se auttaa meitä olemaan vapaita ja hallitsemaan tilannetta verkossa.
+[G] ... se auttaa meitä jakamaan kuvia koko maailman kanssa.
+
+TIEDON PUOLUSTAJAT ja TIETOMURTAJAT [I]
+
+N. NIMETÖN
+
+TEAM: DIGITAL DEFENDERS
+    
+KYVYT: Hallituksen testit ovat vahvistaneet hänen immuunijärjestelmäänsä. Hänellä on myös  kyky käyttää somea nimettömänä, niin ettei kukaan tiedä, kuka hän todella on.
+
+ASEET: Hän on taitava lähitaistelija
+
+I. D. VARAS
+
+TEAM: DATA INTRUDERS
+
+KYVYT: Hän näkee mitä teet verkossa ja pihistää henkilötietosi. Hän esiintyy sinuna ja yrittää käyttää nimeäsi, some- ja sähköpostitilejäsi rikolliseen toimintaan.
+
+ASEET: Alpha-virus - jota hän käyttää tunkeutuakseen tietokoneisiin ja puhelimiin.
+
+
+
+
+CHAPTER 5
+Smartphone security
+
+Puhelimistamme on tullut hyvin tärkeä tapa käyttää internetiä.
+
+Käytämme niitä kun haluamme yhteyden ystäviin ja sukulaisiin, kun käytämme sosiaalista verkkoa tai vain selaamme nettiä.
+
+Mutta puhelimista on hyötyä moneen muuhunkin, ne toimivat taskulamppuina, niillä voi pelata tai tarkistaa bussiaikataulun.
+
+Kun asennat uuden sovelluksen, luetko mitä oikeuksia annat sovellukselleja kuinka se pääsee käsiksi puhelimessasi olevaan tietoon? Tarvitseeko taskulamppusovellus tosiaan pääsyä osoitekirjaasi?
+
+It is very tempting to just skip past the »Accept« screen, but it is better to stop and think. There are good reasons not to trust an app that is asking for stuff that it obviously does not need.
+
+Muutamalla klikkauksella voimme myös tarkistaa ja rajoittaa puhelimessamme jo asennettujen sovellusten oikeudet. Useimmista laitteista nämä löytyvät kohdasta "Asetukset". Selaa puhelimesi asetuksia, on hyvä oppia, kuinka puhelin toimii.
+
+» Many apps get access to the personal stuff stored on your phone.
+
+We can restrict access to our location and to our addressbook and we can add a password or fingerprint check to unlock our phone screen.
+
+Ei vie kauan tehdä puhelimestaan turvallisempi ja yksityisyyttä suojaavampi. Lehtisen lopusta löytyy monia hyviä sovelluksia tähän tarkoitukseen.
+
+TIESITKÖ?
+
+If there is a good reason to give an app permission for something – a photo app, for example, that needs to have access to your camera – then there's little to worry about. But if you think that the app is asking for too much, you can check if there are similar apps in the app store that ask for fewer permissions.
+
+TIEDON PUOLUSTAJAT ja TIETOMURTAJAT (II)
+
+MIELEN VAPAUTTAJA
+
+TEAM: DIGITAL DEFENDERS
+
+KYVYT: Hän taistelee sen puolesta, että sinulla on oikeus päättää, mitä paljastat ja kenelle. Hänellä on kyky luoda yksityinen ja turvallinen ympäristö jossa voit sanoa mitä ajattelet.
+
+ASEET: Hänen mielensä.
+
+MAN IN THE MIDDLE.
+
+TEAM: DATA INTRUDERS
+
+KYVYT: Hänellä on salaiset kyvyt sekaantua siihen, mitä teet verkossa. Hän voi esiintyä asiaankuuluvana henkilönä verkossa ja käyttää tätä tunkeutuakseen yhteyksiisi, lukeakseen viestejäsi, nähdäkseen kuviasi ja katsoakseen videoitasi.
+
+ASEET: Puku ja antennit.
+
+
+
+
+CHAPTER 6
+Safer messaging
+
+Those of us with mobile phones use it to send messages to friends and family.
+
+But some messaging apps record all our messages and track who we talk to. Some apps do this so they can profit from this information.
+
+Yhtiöille on hyvin arvokasta se, mitä sanot ja teet verkossa. 
+
+The companies who make messaging apps often scan what we say. They track who we're talking to so they can show us advertisement to make us buy something or to share it with other companies. You can check out a list of cool messaging apps at the end of the booklet. These messaging apps also ensure that we don't receive texts from strangers. And there is also a guide how to install Signal in this booklet – Signal is a cool app to keep your messages safe.
+
+» QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE…
+[Q] …I can be sure that they will never use or sell my data.
+[M] …I can stay in touch with friends and family.
+[N] …I can be sure that only my friends can see the photos I post there.
+
+
+
+
+LUKU 7:
+Verkkoselailu
+
+Usein käytämme verkkoa selaimella.
+
+» It's easy to forget that the browser is a powerful piece of software itself.
+
+It is sometimes the first thing you open when turning on your phone, tablet or computer, and the last thing you close. But a lot goes on inside the browser that you are not aware of and that can be bad (or good) for your privacy.
+
+Kun  menemme verkkoon ostaaksemme jotakin, katsomaan videoita tai tarkistamaan mitä kaverimme ovat viimeksi postanneet, jätämme digitaalisen jalanjäljen. Jotkin sivustot ja sosiaaliset verkot käyttävät näitä jalanjälkiä seuratakseen meitä.
+
+Sivustot keräävät meistä paljon tietoa!
+
+Who our friends are, what we like, what we are searching for and what we are listening to can all be tracked. These websites can do this because they use »cookies« in our browsers. These »cookies « are small files stored on our devices.
+
+They are invisible to us but when enough of data is collected and combined with other information about us, personal details that we think are secret become known to many people and companies.
+
+Most devices come with a browser. On Windows proposes Edge, Apple devices come with Safari, and Android devices' default browser is Google Chrome. But those are not necessarily the browsers that protect your privacy best.
+
+TIESITKÖ?
+
+Make sure to check the »privacy options« of your browser and change the default settings so that you take control – just like Perfect Wave! Many people think that the best browser for your privacy and security is Firefox. Why? Because you can customise it, control it, and see how it works. It is possible that it is not yet installed on your computer, but you can download it very easily.
+
+TIEDON PUOLUSTAJAT ja TIETOMURTAJAT (III)
+
+PERFECT WAVE
+
+TEAM: DIGITAL DEFENDERS
+
+POWERS: He can navigate space, hyperspace and cyberspace on his board. The Perfect Wave does not require food or drink, he can survive by converting data into energy. He is almost totally indestructible.
+
+ASEET: Hänen surffilautansa.
+
+KRAZY KOOKIE
+
+TEAM: DATA INTRUDERS
+
+KYVYT: Etsii aina tappelua. Hän vihaa kaikkia puolustajia mutta pitää Perfect Wavea pahimpana vihollisenaan. Hän himoitsee salaisuuksiasi kyltymättömästi.
+
+ASEET: Hänen pyörivä robottikätensä.
+
+TEHTÄVÄ 4: JOTKIN SOVELLUKSET
+[F] ...ovat niin turvallisia, ettei minun tarvitse koskaan ajatella yksityisyyttäni niitä käyttäessäni.
+[L] ...ovat parempia kuin suklaa.
+[O] ... pääsevät käsiksi yhteystietoihini, kuviini ja viesteihini.
+
+
+
+
+LUKU 8:
+Salasanaturvallisuus
+
+Passwords are very important in the digital age.
+
+Incredibly important, in fact. They form the basis of your security and privacy. And most people's passwords are very, very weak – the most commonly used passwords are »password« and »12345«.
+
+Vahvan salasanan luominen ei ole kovin vaikeaa.
+
+1. Älä koskaan käytä samaa salasanaa uudestaan.
+
+Tämä on yksi tärkeimpiä sääntöjä! Yritä ainakin tehdä eri versioita luomastasi salasanasta.
+
+Why? Because if criminals (like Data Smuggler) get access to the passwords of one of your accounts, they often try to enter other accounts with the same password. They know that people tend to use the same password on several sites!
+
+Älä koskaan käytä sanaa suoraan sanakirjasta.
+
+...olkoon se kuinka pitkä ja mutkikkaan näköinen tahansa.
+
+Miksi? Koska onolemassa tietokoneohjelmia jotka koettavat "arvata" salasanasi kokeilemalla jokaistasanakirjan sanaa. Jokaisella Puolustajien joukkueemme supersankarilla on vahva ja omaperäinen salasana. Voit liittyä heihin - salasanasi on ase jolla torjut vaaran!
+
+3. Salasanasi pitäisi olla ainakin 12 merkkiä pitkä.
+
+Se on minimi. Mitä pitempi salasana, sen vaikeampi sitä on murtaa.
+
+Why? Because the longer it is, the more difficult it is to guess. Some experts say that it is OK to write it down on a piece of paper, just hide it very well!
+
+TIEDON PUOLUSTAJAT JA TIETOMURTAJAT (IV)
+
+LUKKOJEN KUNINGATAR
+
+TEAM: DIGITAL DEFENDERS
+
+KYVYT: Taistelee yksityisyyden ja turvallisuuden puolesta. Hän antaa mahtavia yksityisiä avaimia vaarassa oleville ja auttaa heitä turvaamaan henkilökohtaiset tietonsa verkossa.
+
+ASEET: Hänen kypäränsä - hän ampuu sillä energiasäteitä silmistään. Hän pystyy leikkaamaan  EVÄ KHALASTAJAN vaarallisen verkon rikki.
+
+EVÄ KHALASTAJA
+
+TEAM: DATA INTRUDERS
+
+KYVYT: Hänellä on yli-inhimilliset voimat, nopeus ja reaktiokyky. Hän käyttää kykyjään livahtaakseen puhelimeensi ja kalastaakseen salaisuutesi.
+
+ASEET: Hän heittää elektrostaattisen verkon lamaamaan vastustajansa.
+
+» QUEST 5: WHEN I BROWSE THE INTERNET…
+[X] …I can do whatever I want and I'm safe – it's not reality!
+[U] …I can protect myself by not allowing cookies and not storing my browser history.
+[Y] …being too careful is just paranoid because I have nothing to hide.
+
+
+
+
+LUKU 9
+Valokuvien ja videoiden jakaminen
+
+Kerromme ystävillemme päivittäisestä elämästämme jakamalla heidän kanssaan kuvia ja videoita verkossa.
+
+Jakaminen on kivaa - mutta valokuvia ja videoita on helppo kopioida.
+
+Muista että on aina tärkeää varmistaa, ettemme jaa materiaalia sellaisten ihmisten kanssa joiden emme halua. Ihmiset saattavat nähdä yksityisiä kuviamme ja käyttää niitä väärin.
+
+Missä ongelma? Jos lähetämme kuvan tai videon, lähetämme kopion siitä omasta laitteestamme kaverin laitteeseen. Entäpä jos kaveri jakaa kuvan edelleen muille? Jokainen kopio voidaan kopioida uudestaan.
+
+Jos jaamme kuvan tai videon verkossa,  siitä on aina useita kopioita eri laitteilla. Vaikka tuhoaisimme alkuperäisen kuvan omilta laitteiltamme, muut kopiot ovat yhä jäljellä.
+
+Kun jaamme, materiaalimme  voi joutua sellaisten ihmisten käsiin,  joiden kanssa emme halua jakaa sitä.
+
+Jotkut saattavat jopa yrittää varastaa henkilöllisyytemme käyttämällä kuviamme - kuten I. D. Varas.
+
+Snapchat on sovellus, jolla voi jakaa kuvia jotka sitten  katoavat pian. Ikävä kyllä on silti mahdollistatallentaa kuva muutamalla tempulla ja jakaa se uudestaan. Tuhansia Snapchatin kuvia on jo ladattu internetiin.
+
+This means that we all have to live with the fact that social networks can be used in good ways as well as in bad ways. So you need to think before posting or sending photos and videos over the internet! You should ask yourself if you would put this photo on the blackboard of your school. If not, it's maybe not a good idea to share it online.
+
+Jos kuvass näkyy muita ihmisiä, on kysyttävä lupaa ennen jakamista, koska heidän oikeutensa on  päättää asiasta.
+
+Jos kuvaa ei ole ottanut itse, pitäisi kysyä omistajalta lupaa ennen kuin kuvan jakaa netissä.
+
+TIEDON SUOJELIJAT ja TIETOMURTAJAT (V)
+
+JUSSI SATTUMA
+
+TEAM: DIGITAL DEFENDERS
+
+KYVYT: Hän on syntynyt Entropia-planeetalla, jossakin kaukaisessa galaksissa. Kaikkien lajinsa edustajien tapaan hän voi muuttaa muotoaan kuten haluaa. Hän voi suojella salaisuuksiasi satunnaisesti vaihtuvilla salasanoilla.
+
+ASEET: Hänen pääaseitaan ovat energialla ladatut ruumiinosat, joita  hän voi heittää pois ja kasvattaa uudelleen milloin hyvänsä.
+
+DATA TROKARI
+
+TEAM: DATA INTRUDERS
+
+KYVYT: Hän on upporikas ja hänellä on yli-inhimillisiä taitoja. Hän on uskomattoman joustava ja hänellä on yliluonnolliset voimat. Hän kerää arvokasta henkilökohtaista tietoa (kuten kuviasi ja viestejäsi) ja myy sen mustassa pörssissä.
+
+ASEET: Hänellä on eri tyyyppisiä aseita salkussaan.
+
+
+
+LUKU 10:
+Hyviä sovelluksia ja työkaluja.
+
+ÄLYPUHELINSOVELLUKSET
+
+App | What it does | Difficulty to use
+
+Signal | Secure messaging and phone calls (WhatsApp alternative) | Easy
+
+Firefox | A privacy-friendly web browser | Easy
+
+KeePass DX | Manages all your passwords | Easy
+
+F-Droid | App store with apps that are open and free software (Google Play alternative) | Easy
+
+K9-Mail | Manages your emails | Medium
+
+Transportr  | Julkinen liikenne, bussien ja junien aikataulut | Helppo
+
+Jitsi Meet | Secure video group calls (Skype alternative) | Easy
+
+Tor-selain | Selaa verkkoa nimettömänä | Helppo
+
+OpenKeychain | Encrypt emails in K9-Mail | Difficult
+
+
+OHJELMIA WINDOWSILLE, MACILLE JA LINUXILLE
+
+Ohjelma | Mitä se tekee | Vaikeusaste
+
+Firefox | A privacy-friendly web browser | Easy
+
+Pidgin and OTR Plugin | Messaging (compatible with ChatSecure) | Medium
+
+Thunderbird | Manages your emails | Medium
+
+Enigmail | Add-on to encrypt emails in Thunderbird | Difficult
+
+Tor-selain | Selaa verkkoa nimettömänä | Helppo
+
+
+BROWSER ADD-ONS, PLUG-INS AND EXTENSIONS
+
+Add-on | What it does | Difficulty to use
+
+Ublock Origin | Blocks web advertisement and tracking | Easy
+
+Privacy Badger | Blocks online tracking | Easy
+
+HTTPS Everywhere | Forces websites to encrypt your traffic if possible | Easy
+
+Cookie AutoDelete | Removes cookies when they are no longer used by open browser tabs | Medium
+
+NoScript | Estää JavaScriptin | Vaikea
+
+
+LUKU 11:
+Käytännön ohje Signalia varten
+
+Signal on ilmainen sovellus Androidille ja iPhonelle. Se ei vahdi mitä sanotaan tai kenen kanssa puhutaan. Sitä voi käyttää tekstiviesteihin, puheluihin ja kuvien, videoiden ja yhteystietojen jakamiseen.
+
+Se ei ole ainoa sovellus, jolla voi viestiä turvallisesti, mutta se onyksi helppokäyttöisimpiä. Tässä viiden helpon askelen käytännön opas.
+    
+1.  Mene Play Storeen (Android) tai AppStoreen (iPhone). Etsi "Signal".  Valitse sovellus "Signal Private Messenger" ja napauta "Asenna". Kun Signal on asentunut, avaa sovellus.
+
+2. Rekisteröi puhelinnumerosi Signaliin syöttämällä matkapuhelinnumerosi ja valitsemalla "Register" tai "Verify your Device". Saat tekstiviestin jossa on kuusinumeroinen koodi. Syötä koodi Signaliin.
+
+Napauta kynää oikeassa alanurkassa (Android) tai +-merkkiä oikeassa ylänurkassa (iPhone) keskustelun aloittamiseksi.
+
+4. Valitse henkilö jolle haluat soittaa tai lähettää viestin.
+
+5. Jos haluat vaihtaa internetin kautta kulkevien suojattujen viestien ja suojaamattomien tekstiviestien välillä, paina vain "Send" nappia hiukan pitempään.
+
+It's much more secure when the person who we're contacting is using Signal too. It uses our internet connection when we contact another Signal user and normal SMS or minutes when we contact someone who is not using Signal.
+
+Remember! You don't have to get everyone you know to use Signal. Just tell your closest friends and the people you contact most often to install it too and then more and more of your friends will start using it.
+
+» QUEST 6: I SHOULD CHOOSE AS MY PASSWORD …
+[R] …a random combination of letters, numbers and special characters.
+[V] …123456789 – it's easy to remember.
+[D] …the first word I see when opening a random book from a random page.
